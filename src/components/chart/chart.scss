@@ -1,0 +1,13 @@
+@import "../../index.scss";
+.chart {
+  flex: 4;
+  box-shadow: 2px 1px 8px 1px rgb(0 0 0 / 20%);
+
+  color: var(--clr-grey);
+  .title {
+    margin-bottom: 10px;
+  }
+  .chartGrid {
+    stroke: rgb(228, 225, 225);
+  }
+}

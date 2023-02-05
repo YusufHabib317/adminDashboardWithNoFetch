@@ -1,0 +1,32 @@
+body {
+  font-family: "Nunito", sans-serif;
+}
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+:root {
+  --clr-logo: #6439ff;
+  --clr-hr: #d5d5d5;
+  --clr-bg-white: #fff;
+  --clr-grey: #999;
+  --clr-light-grey: #afafaf;
+  --clr-li: #888;
+  --clr-li-hover: #ece8ff;
+  --clr-main: #7451f8;
+  --clr-main-op-02: #7551f82a;
+  --clr-navbar: #555;
+
+  --box-shadow: 2px 1px 8px 1px rgb(0 0 0 / 20%);
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+a {
+  text-decoration: none;
+}
